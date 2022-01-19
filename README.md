@@ -1,8 +1,8 @@
 # Hi, I'm Oscar Encarnacion Liz
 Mis Datos de Contacto 
 
-```
-class FalconSoft(self):
+```python
+class Oencarnacion(self):
         self.username = 'oencarnacion'
         self.name = 'Oscar Encarnacion Liz'
         self.web = 'oscarliz.herokuapp.com'
@@ -31,7 +31,7 @@ class FalconSoft(self):
         return self.name
 
 if __name__ == '__main__':
-    me = FalconSoft()
+    me = Oencarnacion()
 ```
 
 

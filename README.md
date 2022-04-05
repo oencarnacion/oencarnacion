@@ -49,10 +49,6 @@ Linkedin: https://www.linkedin.com/in/oscar-encarnacion-liz-2279a0169/?originalS
 
 Project: https://cybersirp.ml
 
-# Website
-www.oscarliz.herokuapp.com
-
-
 
 
 

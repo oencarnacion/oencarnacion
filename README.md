@@ -20,7 +20,7 @@ class Oencarnacion(self):
             'erp': ['odoo erp'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'PHP'],
-            'waf': ['Sucuri', 'CloudFlare']
+            'waf': ['Sucuri', 'CloudFlare'],
             'database': ['MSSQL', 'MySQL', 'Elasticsearch'],
             'devops': ['Docker', 'Nginx', 'Azure', 'Heroku'],
             'tools': ['GIT', 'GitHub'],

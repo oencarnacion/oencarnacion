@@ -20,11 +20,12 @@ class Oencarnacion(self):
             'erp': ['odoo erp'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'PHP'],
-            'database': ['MSSQL', 'MySQL', 'MongoDB'],
-            'devops': ['Docker', 'Nginx', 'Azure', 'Heroku','Docker-compose'],
+            'waf': ['Sucuri', 'CloudFlare']
+            'database': ['MSSQL', 'MySQL', 'Elasticsearch'],
+            'devops': ['Docker', 'Nginx', 'Azure', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'ides': ['Visual Studio Code', 'Jupyter Notebook'],
-            'misc': ['SCRUM', 'GNU/Linux', 'ELK', 'Velociraptor']
+            'misc': ['TheHive', 'Cortex', 'Shuffle', 'ELK', 'MISP']
         }
         
     def __str__(self):

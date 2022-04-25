@@ -5,7 +5,7 @@ Mis Datos de Contacto
 class Oencarnacion(self):
         self.username = 'oencarnacion'
         self.name = 'Oscar Encarnacion Liz'
-        self.web = 'oscarliz.herokuapp.com'
+        self.web = 'https://cybersirp.ml'
         self.twitter = '@oscarlizz'
         self.linkedin = 'https://www.linkedin.com/in/oscar-encarnacion-liz-2279a0169/?originalSubdomain=do'
         self.source = {
